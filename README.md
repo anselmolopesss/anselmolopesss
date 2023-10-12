@@ -18,4 +18,4 @@ I'm currently learning about Simulation, trying to join the Production Engineeri
 
 ```Contact```
 
-![Linkedin](https://www.linkedin.com/in/anselmolopess/)
+[Linkedin](https://www.linkedin.com/in/anselmolopess/)
